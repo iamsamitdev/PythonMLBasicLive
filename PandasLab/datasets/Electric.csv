@@ -1,0 +1,7 @@
+id,Datetime,n_id,n_val,machine_id
+1,2022-11-13,10:06:00,2000,Air_Pump_Ozone
+2,2022-11-13,10:00:00,10000,Air_Pump_Ozone
+3,2022-11-13,9:15:00,1200,Air_Pump_Ozone
+4,2022-11-13,9:00:00,500,Air_Pump_Ozone
+5,2022-11-13,8:30:00,1100,Air_Pump_Ozone
+6,2022-11-13,8:00:00,1000,Air_Pump_Ozone
